@@ -1,7 +1,7 @@
 # Code2PPM
 It's a simple C++ file that lets you make shader-program-like images relying on the CPU using C++
 
-Just code in the render part; it's the main part. It's the code that will run on each pixel so you can edit it's properties.
+Just code in the render function; it's the main part. It's the code that will run on each pixel so you can edit it's properties.
 
 Here are some renders  I made:
 
